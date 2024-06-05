@@ -1,0 +1,22 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+pom.xml.versionsBackup
+pom.xml.releaseBackup
+pom.xml.tag
+release.properties
+
+# Sonar
+.sonar/
+
+# Docker
+*.log
+Dockerfile
+
+# Jenkins
+.pipeline/
